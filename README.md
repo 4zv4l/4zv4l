@@ -1,11 +1,15 @@
-<h1 align="center">Hi , I'm 4zv4l <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<br>
+```diff
+hi, im 4zv4l 🔮.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;&center=true&width=500&height=50"></a>
-</p>
-
-<h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4zv4l&layout=compact;show_icons=true" alt="GitHub Most Frequent Languages used by me"></p>
-<br>
+@@cyber security student.@@
++ living in Belgium.
+- 19 years old
+! Go, C, Python, Rust, Php, SQL, Bash, Html, CSS
+# 📖 reverse engineering, 
++ website : https://azval.ddns.net
+```
+------
+[4zv4l](https://github.com/4zv4l)
+Last Edited on: 2 nov 2021
