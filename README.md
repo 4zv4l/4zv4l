@@ -1,9 +1,9 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/jQzFUZrBsZ6wse4RH1/giphy.gif"/>
 
 ```diff
 hi, im 4zv4l 🔮.
 
-@@cyber security student.@@
+@@cyber security student@@
 + living in Belgium.
 - 19 years old
 ! Go, C, Python, Rust, Php, SQL, Bash, Html, CSS
