@@ -8,7 +8,7 @@ Hi, I'm 4zv4l ✨
 + living in Belgium.
 - 19 years old
 ! Go, C, Lua, Rust, Python, Php, SQL, Bash, 
-! Html, CSS, asm AT&T x86_64
+! Html, CSS, AT&T_asm
 # 📖 reverse engineering, bug bounty, IoT
 + website : https://azval.ddns.net
 ```
