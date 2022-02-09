@@ -7,11 +7,11 @@ Hi, I'm 4zv4l ✨
 @@cyber security student@@
 + living in Belgium.
 - 19 years old
-! Go, C, Rust, Python, Forth, Lua,
-! Php, SQL, Bash, Html, CSS, AT&T_asm
+! Go, C, Rust, Python, Forth,
+! [L,W]AMP, AT&T_asm
 # 📖 reverse engineering, bug bounty, IoT
 + website : https://azval.ddns.net
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 2 nov 2021
+Last Edited on: 9 feb 2022
