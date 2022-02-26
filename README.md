@@ -6,7 +6,6 @@ Hi, I'm 4zv4l ✨
 
 @@cyber security student@@
 + living in Belgium.
-- 19 years old
 ! Go, C, Rust, Python, Forth,
 ! [L,W]AMP, AT&T_asm
 # 📖 reverse engineering, bug bounty, IoT
