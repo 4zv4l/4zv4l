@@ -6,11 +6,11 @@ Hi, I'm 4zv4l ✨
 
 @@cyber security student@@
 + living in Belgium.
-! Zig, Nim, Ruby,
+! Zig, Nim, Perl,
 ! [L,W]AMP, AT&T_asm
-# 📖 reverse engineering, bug bounty, IoT
+# 📖 reverse engineering, bug bounty, IoT, forensic
 + website : https://azval.ddns.net
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 16 aug 2022
+Last Edited on: 10 nov 2022
