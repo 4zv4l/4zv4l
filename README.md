@@ -6,11 +6,11 @@ Hi, I'm 4zv4l ✨
 
 @@cyber security student@@
 + living in Belgium.
-! C, Perl
-! [L,W]AMP, Zig, Nim, Python
+! C, Perl, [L,W]AMP
+! Zig, Nim, Python
 # 📖 reverse engineering, bug bounty, IoT, forensic
 + website : https://azval.ddns.net
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 10 nov 2022
+Last Edited on: 11 nov 2022
