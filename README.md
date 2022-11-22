@@ -9,8 +9,8 @@ Hi, I'm 4zv4l ✨
 ! C, Perl, Go
 ! Zig, Python, [L,W]AMP
 # 📖 reverse engineering, bug bounty, IoT, forensic
-+ website : https://azval.ddns.net
++ website : https://4zv4l.github.io/
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 11 nov 2022
+Last Edited on: 22 nov 2022
