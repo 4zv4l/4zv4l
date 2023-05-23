@@ -8,8 +8,8 @@ Hi, I'm 4zv4l ✨
 + living in Belgium.
 ! Zig, Nim, Ruby
 # 📖 reverse engineering, bug bounty, IoT, forensic
-+ website : https://azval.ddns.net/
++ website : https://azval.duckdns.org
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 10 mai 2023
+Last Edited on: 23 mai 2023
