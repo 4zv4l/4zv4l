@@ -4,11 +4,13 @@
 ```diff
 Hi, I'm 4zv4l ✨
 
-@@cyber security@@
+@@ cyber security @@
+- living in Belgium.
+- Zig, Rust, Python
 + living in Hong Kong.
-! Zig, Nim, Ruby
-# 📖 reverse engineering, bug bounty, IoT, forensic, sysadmin
-+ website : https://4zv4l.github.io/
++ C, Nim, Ruby
+! 📖 pentesting, malware analysis, forensic
+# website : https://4zv4l.github.io/
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
