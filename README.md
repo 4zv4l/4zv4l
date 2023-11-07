@@ -5,11 +5,11 @@
 Hi, I'm 4zv4l ✨
 
 @@cyber security@@
-+ living in Belgium.
++ living in Hong Kong.
 ! Zig, Nim, Ruby
 # 📖 reverse engineering, bug bounty, IoT, forensic, sysadmin
 + website : https://4zv4l.github.io/
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 25 jui 2023
+Last Edited on: 11 nov 2023
