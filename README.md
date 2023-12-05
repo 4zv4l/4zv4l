@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.giphy.com/media/jQzFUZrBsZ6wse4RH1/giphy.gif"/>
+<img align="left" height="200" src="./anim.gif"/>
 
 
 ```diff
@@ -6,12 +6,12 @@ Hi, I'm 4zv4l ✨
 
 @@ cyber security @@
 - living in Belgium.
-- Zig, Rust, Python
+- Zig, Nim, Ruby
 + living in Hong Kong.
-+ C, Nim, Ruby
-! 📖 pentesting, malware analysis, forensic
++ C, Rust, Perl
+! 📖 pentesting, malware analysis, digital forensics
 # website : https://4zv4l.github.io/
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 11 nov 2023
+Last Edited on: 5 dec 2023
