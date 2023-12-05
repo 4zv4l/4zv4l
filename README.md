@@ -1,4 +1,4 @@
-<img align="left" height="200" src="./anim.gif"/>
+<img align="left" height="200" src="./giphy.gif"/>
 
 
 ```diff
