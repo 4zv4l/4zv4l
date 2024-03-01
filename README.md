@@ -1,4 +1,4 @@
-<img align="left" height="200" src="./giphy.gif"/>
+<img align="left" height="200" width="250" src="./giphy.gif"/>
 
 
 ```diff
@@ -14,4 +14,4 @@ Hi, I'm 4zv4l ✨
 ```
 ------
 [4zv4l](https://github.com/4zv4l)
-Last Edited on: 24 jan 2024
+Last Edited on: 1st march 2024
